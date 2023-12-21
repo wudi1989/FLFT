@@ -4,7 +4,7 @@ This is the implementationer for the paper work of "Federated Latent Factorizati
 
 # Brief Introduction
 
-Federated latent factorization of tensors (FLFT)
+
 
 # Enviroment Requirment
 
